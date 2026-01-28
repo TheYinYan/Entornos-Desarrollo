@@ -115,14 +115,14 @@ En los caso ***CP03*** y ***CP04*** varia **esDeDia** ya que son los únicos cam
 -  **Validos:** {1,2,3}
 - **Invalidos:** {Menores de 1 y Mayores de 3}
 - **Minimo Valido:** 1
-- ***Maximo Valido:** 3
+- **Maximo Valido:** 3
 
 **Accion:**
 
 -  **Validos:** {1,2,3}
 - **Invalidos:** {Menores de 1 y Mayores de 3}
 - **Minimo Valido:** 1
-- ***Maximo Valido:** 3
+- **Maximo Valido:** 3
 
 **esDeDia:**
 

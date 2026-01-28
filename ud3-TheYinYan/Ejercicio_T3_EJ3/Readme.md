@@ -97,14 +97,14 @@ tamano = t, posicion = p, valor = v y respuesta = r
 - **Validos: Mayores que 0 y mnores que numero de tamaño** 
 - **Invalidos: Menores de 1** 
 - **Minimo Valido: 1** 
-- ***Maximo Valido: numero de tamaño**
+- **Maximo Valido: numero de tamaño**
 
 **Valor:**
 
 - **Validos: Menores 1065000000** 
 - **Invalidos: String** 
 - **Minimo Valido: 1** 
-- ***Maximo Valido: 1065000000**
+- **Maximo Valido: 1065000000**
 
 **Respuesta:**
 
