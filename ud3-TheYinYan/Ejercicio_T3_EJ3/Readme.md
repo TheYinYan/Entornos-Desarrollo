@@ -90,7 +90,7 @@ tamano = t, posicion = p, valor = v y respuesta = r
 - **Validos: Mayores de 0 Menores 1065000000** 
 - **Invalidos: Menores de 1** 
 - **Minimo Valido: 1** 
-- ***Maximo Valido: 1065000000** 
+- **Maximo Valido: 1065000000** 
 
 **Posicion:**
 
