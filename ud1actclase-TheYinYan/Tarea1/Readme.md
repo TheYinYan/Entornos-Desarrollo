@@ -1,7 +1,7 @@
 # **Parte 1: Investigación**
 
 [Readme Tema 1](../README.md) <br>
-[Readme Principal](/README.md)
+[Readme Principal](../../Readme.md)
 
 ## 1. **Consulta el [índice TIOBE](https://www.tiobe.com/tiobe-index/) actualizado y anota los 10 primeros lenguajes de programación.**
 
