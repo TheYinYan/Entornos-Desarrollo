@@ -1,0 +1,8 @@
+# Ignora los ficheros .doc 
+
+*.doc
+
+# ignora la carpeta prueba
+
+prueba/
+
