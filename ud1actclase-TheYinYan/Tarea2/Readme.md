@@ -35,4 +35,4 @@ INICIO
 18. Coger el huevo con la espatula
 19. Colocar el Huevo en el plato
 
-[Readme Principal](/README.md)
+[Readme Principal](/Readme.md)
