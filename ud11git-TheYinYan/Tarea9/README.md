@@ -1,6 +1,6 @@
 # GitHub issues (por parejas)
 
-[Readme Principal](/README.md) <br>
+[Readme Principal](../../Readme.md) <br>
 [Readme T1.1](../README.md)
 
 1. Creamos el HTML
@@ -26,5 +26,5 @@
 
 
 
-[Readme Principal](/Readme.md) <br>
+[Readme Principal](../../Readme.md) <br>
 [Readme T1.1](../README.md)

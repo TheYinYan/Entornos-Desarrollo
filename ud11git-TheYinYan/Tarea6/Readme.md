@@ -1,6 +1,6 @@
 # Generación de un conflicto en git y fichero .gitignore
 
-[Readme Principal](/README.md) <br>
+[Readme Principal](../../Readme.md) <br>
 [Readme T1.1](../README.md)
 
 ## Primera parte
@@ -232,5 +232,5 @@ Sobre el repositorio de la unidad crea un fichero .gitignore para ignorar:
     ![Imagen](../Imagenes/Tarea6/Parte2-3.png)
     ![Imagen](../Imagenes/Tarea6/Parte2-4.png)
 
-[Readme Principal](/README.md) <br>
+[Readme Principal](../../Readme.md) <br>
 [Readme T1.1](../README.md)

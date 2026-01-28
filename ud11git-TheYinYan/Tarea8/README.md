@@ -1,6 +1,6 @@
 # Generación de un conflicto en git y fichero .gitignore
 
-[Readme Principal](/README.md) <br>
+[Readme Principal](../../Readme.md) <br>
 [Readme T1.1](../README.md)
 
 ## Por parejas.
@@ -116,5 +116,5 @@
 
     ![Imagen](../Imagenes/Tarea8/11.png)
 
-[Readme Principal](/README.md) <br>
+[Readme Principal](../../Readme.md) <br>
 [Readme T1.1](../README.md)

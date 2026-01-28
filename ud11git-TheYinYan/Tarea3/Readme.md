@@ -1,6 +1,6 @@
 # Conceptos y comandos sobre ramas
 
-[Readme Principal](/README.md) <br>
+[Readme Principal](../../Readme.md) <br>
 [Readme T1.1](../README.md)
 
 ## ¿La gestión de ramas es exclusiva de Git?
@@ -200,5 +200,5 @@ git branch -D nombre_rama
 
 Elimina la rama **_aunque sus cambios no estén fusionados._**
 
-[Readme Principal](/README.md) <br>
+[Readme Principal](../../Readme.md) <br>
 [Readme T1.1](../README.md)

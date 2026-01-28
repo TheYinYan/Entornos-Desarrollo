@@ -1,6 +1,6 @@
 ## Tema 1.1 GIT
 
-[Readme Principal](/Readme.md) <br>
+[Readme Principal](../Readme.md) <br>
 
 - [Tarea 1: Comienzo con git por línea de comandos.](Tarea1/Readme.md)
 

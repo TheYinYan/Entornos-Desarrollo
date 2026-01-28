@@ -1,6 +1,6 @@
 # Ejercicios interactivos
 
-[Readme Principal](/README.md) <br>
+[Readme Principal](../../Readme.md) <br>
 [Readme T1.1](../README.md)
 
 ## Principal
@@ -214,5 +214,5 @@
     ![Imagen](../Imagenes/Tarea4/Remoto_2-8.1.png)
     ![Imagen](../Imagenes/Tarea4/Remoto_2-8.png)
  
-[Readme Principal](/README.md) <br>
+[Readme Principal](../../Readme.md) <br>
 [Readme T1.1](../README.md)

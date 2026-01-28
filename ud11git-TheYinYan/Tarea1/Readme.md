@@ -1,6 +1,6 @@
 # Comienzo con git por línea de comandos.
 
-[Readme Principal](/README.md) <br>
+[Readme Principal](../../Readme.md) <br>
 [Readme T1.1](../README.md)
 
 ## Parte 1 — Crear un Token en GitHub
@@ -83,5 +83,5 @@
 | --global  | ~/.gitconfig                |   Todos los repos del usuario   | Datos personales y ajustes generales: nombre, email, editor, alias | 
  
 
-[Readme Principal](/README.md) <br>
+[Readme Principal](../../Readme.md) <br>
 [Readme T1.1](../README.md)

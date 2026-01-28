@@ -1,6 +1,6 @@
 # Comandos básicos en local.
 
-[Readme Principal](/README.md) <br>
+[Readme Principal](../../Readme.md) <br>
 [Readme T1.1](../README.md)
 
 ## Escribe los comandos según su descripción:
@@ -134,6 +134,5 @@
     ![Imagen](../Imagenes/Tarea2/15.png)
     ![Imagen](../Imagenes/Tarea2/15.1.png)
 
-
-[Readme Principal](/README.md) <br>
+[Readme Principal](../../Readme.md) <br>
 [Readme T1.1](../README.md)
