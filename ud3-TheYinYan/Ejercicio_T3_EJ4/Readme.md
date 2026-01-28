@@ -1,7 +1,7 @@
 # Tarea 4: Ejercicios clases en Java
 
-[Readme Principal](/README.md) <br>
-[Readme T3](../README.md)
+[Readme Tema 3](../Readme.md) <br>
+[Readme Principal](../../Readme.md) <br>
 
 ## Ejercicio 1: Clase Libro simple
 
@@ -89,5 +89,5 @@
 - [Clase Motor](EJ4.10/Vehiculo/Motor.java)
 - [Clase Coche](EJ4.10/Vehiculo/Coche.java)
 
-[Readme Principal](/README.md) <br>
-[Readme T3](../README.md)
+[Readme Tema 3](../Readme.md) <br>
+[Readme Principal](../../Readme.md) <br>

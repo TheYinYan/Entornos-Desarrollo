@@ -1,6 +1,7 @@
 # Tarea 2: Codigo 1 Definición Pruebas
-[Readme Principal](/README.md) <br>
-[Readme T3](../README.md) <br>
+
+[Readme Tema 3](../Readme.md) <br>
+[Readme Principal](../../Readme.md) <br>
 [Codigo del Programa en Java](codigo/MenuVideojuego.java)
 
 ## Grafo de Flujo del metodo 
@@ -128,5 +129,5 @@ En los caso ***CP03*** y ***CP04*** varia **esDeDia** ya que son los únicos cam
 - **Validos:** true o false
 - **Invalidos:** cualquer cosa que no sea true o false
 
-[Readme Principal](/README.md) <br>
-[Readme T3](../README.md)
+[Readme Tema 3](../Readme.md) <br>
+[Readme Principal](../../Readme.md) <br>

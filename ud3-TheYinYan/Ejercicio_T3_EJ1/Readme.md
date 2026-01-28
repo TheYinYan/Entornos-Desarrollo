@@ -1,7 +1,7 @@
 # Tarea 1: Creación de casos de prueba
 
-[Readme Principal](/README.md) <br>
-[Readme T3](../README.md)
+[Readme Tema 3](../Readme.md) <br>
+[Readme Principal](../../Readme.md) <br>
 
 ## 1. Casos - Suma
 
@@ -571,6 +571,5 @@
 **Criterios de aceptación:** El sistema no se bloquea y muestra error controlado.<br>
 **Postcondiciones:** Pantalla limpia. <br>
 
-[Readme Principal](/README.md) <br>
-[Readme T3](../README.md)
-
+[Readme Tema 3](../Readme.md) <br>
+[Readme Principal](../../Readme.md) <br>

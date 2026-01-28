@@ -1,6 +1,6 @@
 # Tarea 3: Codigo 2 Definición Pruebas
-[Readme Principal](/README.md) <br>
-[Readme T3](../README.md) <br>
+[Readme Tema 3](../Readme.md) <br>
+[Readme Principal](../../Readme.md) <br>
 [Codigo del Programa en Java](codigo/ModificarArraySimple.java)
 
 ## Grafo de Flujo del metodo 
@@ -111,5 +111,5 @@ tamano = t, posicion = p, valor = v y respuesta = r
 - **s**
 - **n**
 
-[Readme Principal](/README.md) <br>
-[Readme T3](../README.md)
+[Readme Tema 3](../Readme.md) <br>
+[Readme Principal](../../Readme.md) <br>
