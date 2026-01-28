@@ -327,4 +327,4 @@
     Aparte de Java por que ya lo estoy viendo en otro modulo me gustaria aprender mas de Phython y JavaScript. 
 
 [Readme Tema 1](../README.md) <br>
-[Readme Principal](/README.md)
+[Readme Principal](../../Readme.md)

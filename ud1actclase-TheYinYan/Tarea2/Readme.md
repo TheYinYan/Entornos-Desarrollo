@@ -1,4 +1,7 @@
-INICIO
+# INICIO
+
+[Readme Tema 1](../README.md) <br>
+[Readme Principal](../../Readme.md)
 
 1. Tomamos una sarten
 2. Verificar que esta limpio
@@ -35,4 +38,5 @@ INICIO
 18. Coger el huevo con la espatula
 19. Colocar el Huevo en el plato
 
-[Readme Principal](/Readme.md)
+[Readme Tema 1](../README.md) <br>
+[Readme Principal](../../Readme.md)
