@@ -11,6 +11,6 @@
 ![Imagen](Imagenes/Imagen.png)
 
 ## Tema 3 
-[Readme Tema 3](ud3-TheYinYan/README.md)
+[Readme Tema 3](ud3-TheYinYan/Readme.md)
 
 ![Imagen](Imagenes/descarga.jfif)
