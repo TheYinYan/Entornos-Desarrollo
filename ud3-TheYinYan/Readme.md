@@ -16,6 +16,7 @@
 
 - [Tarea 7: Pruebas unitarias con jUnit. Tiempo](Ejercicio_T3_EJ7/Readme.md)
 
+- [Tarea 8: Pruebas con JUnit y Mockito](Ejercicio_T3_EJ8/Readme.md)
 <br>
 
 ![Imagen](Imagenes/descarga.jfif)
