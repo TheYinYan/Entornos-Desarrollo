@@ -9,6 +9,3 @@
 Todos los casos cubiertos
 
 ![imagen](calculadora.png)
-
-[Readme Tema 3](../Readme.md) <br>
-[Readme Principal](../../Readme.md) <br>
