@@ -9,6 +9,3 @@
 - Falta por cubir el caso de no se admiten cuentas con saldo negativo. 
 - Falta por cubir el caso de no puede realizarse un reintegro de una cantidad negativa
 - Falta por cubir el caso de no se puede hacer transferencias negativas
-
-[Readme Tema 3](../Readme.md) <br>
-[Readme Principal](../../Readme.md) <br>
