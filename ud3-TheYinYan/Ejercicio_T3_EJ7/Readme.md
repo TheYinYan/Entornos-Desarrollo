@@ -44,6 +44,9 @@
 	}
   ```
 
+- Poner los set a público para que se puedan utilizar 
+
+
 - La Funcion normaliza modificado para normalizar horas aumentando dias cada 24h y quitar while que no hacen nada
 
   **Antes:**
