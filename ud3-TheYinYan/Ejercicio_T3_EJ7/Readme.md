@@ -44,7 +44,7 @@
 	}
   ```
 
-- Poner los set a protect para que se puedan utilizar 
+- Poner los set a protect para poder hacerle los test
 
 
 - La Funcion normaliza modificado para normalizar horas aumentando dias cada 24h y quitar while que no hacen nada
