@@ -7,7 +7,7 @@ public class ServicioNotificacion {
         this.proveedor = proveedor;
     }
 
-    public void enviarNotificacion(String msg) {
-        proveedor.enviar(msg);
+    public void enviarNotificacion(String mensaje) {
+        proveedor.enviar(mensaje);
     }
 }
