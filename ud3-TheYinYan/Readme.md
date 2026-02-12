@@ -17,6 +17,45 @@
 - [Tarea 7: Pruebas unitarias con jUnit. Tiempo](Ejercicio_T3_EJ7/Readme.md)
 
 - [Tarea 8: Pruebas con JUnit y Mockito](Ejercicio_T3_EJ8/Readme.md)
-<br>
 
-![Imagen](Imagenes/descarga.jfif)
+# Ejercicios de Repaso
+
+## EJERCICIO 1 — ServicioRegistro
+
+### Descripción
+
+Tienes un servicio que registra usuarios y usa un repositorio para guardarlos.
+
+Si el usuario ya existe → devuelve false
+
+Si no existe → lo guarda y devuelve true
+
+### Objetivo
+
+Crear tests que verifiquen:
+
+1. usuario nuevo se registra correctamente
+2. usuario existente NO se registra
+
+[RepositorioRegistro](Repaso/repaso1/src/main/java/com/example/RepositorioRegistro.java) <br>
+[ServicioRegistro](Repaso/repaso1/src/main/java/com/example/ServicioRegistro.java)<br>
+[Test](Repaso/repaso1/src/test/java/com/example/RepositorioRegistroTest.java)<br>
+
+
+## EJERCICIO 2 — ServicioPago
+
+### Descripción
+
+Un servicio procesa pagos usando un proveedor externo.
+
+### Objetivo
+
+Tests que:
+
+1. pago exitoso devuelve true
+2. pago fallido devuelve false
+3. verificar que se llamó al proveedor
+
+[ProveedorPago](Repaso/repaso2/src/main/java/com/example/ProveedorPago.java) <br>
+[ServicioPago](Repaso/repaso2/src/main/java/com/example/ServicioPago.java)<br>
+[Test](Repaso/repaso2/src/test/java/com/example/ServicioPagoTest.java)<br>
