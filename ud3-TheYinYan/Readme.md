@@ -59,3 +59,21 @@ Tests que:
 [ProveedorPago](Repaso/repaso2/src/main/java/com/example/ProveedorPago.java) <br>
 [ServicioPago](Repaso/repaso2/src/main/java/com/example/ServicioPago.java)<br>
 [Test](Repaso/repaso2/src/test/java/com/example/ServicioPagoTest.java)<br>
+
+
+## EJERCICIO 3 — ServicioCorreo
+
+### Descripción
+
+Servicio que envía correos usando un proveedor externo.
+
+### Objetivo
+
+Test que:
+
+1. llama correctamente al proveedor
+2. verifica número de llamadas
+
+[ProveedorCorreo](Repaso/repaso3/src/main/java/com/example/ProveedorCorreo.java) <br>
+[ServicioCorreo](Repaso/repaso3/src/main/java/com/example/ServicioCorreo.java)<br>
+[Test](Repaso/repaso3/src/test/java/com/example/ServicioCorreoTest.java)<br>
