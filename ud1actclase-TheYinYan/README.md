@@ -9,4 +9,4 @@
 
 ![Imagen](Imagenes/Imagen.jpeg)
 
-[Readme Principal](../)
+[Readme Principal](../Readme.md)
