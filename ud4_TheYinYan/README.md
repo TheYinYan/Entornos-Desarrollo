@@ -1,6 +1,6 @@
 # Unidad 4: Optimización y documentación
 
-Este es un repositorio de prácticas para la Unidad 4 del curso de Desarrollo de Aplicaciones Multiplataforma (DAM).
+[Readme Principal](/Readme.md)
 
 ## 📁 Estructura del repositorio
 
