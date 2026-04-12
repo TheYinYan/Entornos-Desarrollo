@@ -17,6 +17,6 @@
 
 ## Tema 4
 
-[Readme Tema 4](ud4_TheYinYan/Readme.md)
+[Readme Tema 4](ud4_TheYinYan/)
 
 ![Imagen](Imagenes/4.jfif)
