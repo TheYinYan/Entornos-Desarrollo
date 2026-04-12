@@ -1,6 +1,6 @@
 # Unidad 4: Optimización y documentación
 
-[Readme Principal](/Readme.md)
+[Readme Principal](/)
 
 ## 📁 Estructura del repositorio
 
@@ -52,4 +52,4 @@ ud4-TheYinYan/
 
 - [Práctica 4: Optimización de código](./Practica%204/readme.md)
 
-[Readme Principal](/Readme.md)
+[Readme Principal](/)
